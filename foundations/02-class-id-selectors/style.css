@@ -1,0 +1,19 @@
+.odd {
+    background-color: rgb(255, 153, 153);
+    font-family: 'Verdana', 'DejaVu Sans', sans-serif;
+}
+
+#secel {
+    color: blue;
+    font-size: 36px;
+}
+
+#thcel {
+    font-size: 24px;
+}
+
+#focel {
+    background-color: rgb(144, 238, 144);
+    font-size: 24px;
+    font-weight: bold;
+}
